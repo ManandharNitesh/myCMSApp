@@ -1,0 +1,9 @@
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\LoggingService\bin\Debug\netcoreapp3.1\LoggingService.deps.json
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\LoggingService\bin\Debug\netcoreapp3.1\LoggingService.dll
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\LoggingService\bin\Debug\netcoreapp3.1\LoggingService.pdb
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.csprojAssemblyReference.cache
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.csproj.CoreCompileInputs.cache
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.AssemblyInfoInputs.cache
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.AssemblyInfo.cs
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.dll
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.pdb

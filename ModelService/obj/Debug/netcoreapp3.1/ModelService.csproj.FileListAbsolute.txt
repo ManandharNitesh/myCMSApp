@@ -1,0 +1,9 @@
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\ModelService\bin\Debug\netcoreapp3.1\ModelService.deps.json
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\ModelService\bin\Debug\netcoreapp3.1\ModelService.dll
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\ModelService\bin\Debug\netcoreapp3.1\ModelService.pdb
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\ModelService\obj\Debug\netcoreapp3.1\ModelService.csprojAssemblyReference.cache
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\ModelService\obj\Debug\netcoreapp3.1\ModelService.csproj.CoreCompileInputs.cache
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfoInputs.cache
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfo.cs
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\ModelService\obj\Debug\netcoreapp3.1\ModelService.dll
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\ModelService\obj\Debug\netcoreapp3.1\ModelService.pdb

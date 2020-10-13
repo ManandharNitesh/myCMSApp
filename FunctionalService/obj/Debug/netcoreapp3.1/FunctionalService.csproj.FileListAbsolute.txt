@@ -1,0 +1,14 @@
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.deps.json
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.dll
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csprojAssemblyReference.cache
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.AssemblyInfoInputs.cache
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.AssemblyInfo.cs
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.pdb
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\bin\Debug\netcoreapp3.1\LoggingService.dll
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\bin\Debug\netcoreapp3.1\ModelService.dll
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\bin\Debug\netcoreapp3.1\LoggingService.pdb
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\bin\Debug\netcoreapp3.1\ModelService.pdb
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csproj.CoreCompileInputs.cache
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csproj.CopyComplete
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.dll
+F:\Nitesh CMS\NItsh_Proj\CMS_CORE_NS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.pdb
